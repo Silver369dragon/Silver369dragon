@@ -1,107 +1,69 @@
-<div align="center">
+# Akira / Silver369dragon
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Akira%20%7C%20Silver369dragon&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-stack%20developer%20exploring%20AI%20agents,%20memory%20systems,%20and%20human-centered%20computing&descSize=15&descAlignY=58" alt="Akira profile banner" />
+Full-stack developer interested in AI agents, memory systems, and human-centered computing.
 
+<p>
   <a href="mailto:yf100031@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yf100031%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+    <img src="https://img.shields.io/badge/email-yf100031%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Silver369dragon&style=for-the-badge&color=14b8a6" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Silver369dragon&style=flat-square&color=555555" alt="Profile views" />
+</p>
 
-</div>
+## Now
 
-## About
+I build full-stack systems and tools, mostly around web platforms, backend services, automation workflows, and applied AI experiments.
 
-I am Akira, a full-stack builder working across web systems, backend services, automation workflows, and AI-assisted software. My current direction is moving toward AI agent memory, environment feedback, and human-centered computing.
+My current direction is shifting toward agent memory, environment feedback, and systems that make AI behavior easier to inspect and understand. Long term, I am interested in the overlap between computer science, cognition, adaptive systems, and neuroscience-informed AI.
 
-I am especially interested in how software systems can help AI agents remember context, understand changing environments, and make more stable decisions across multi-step tasks.
+## Work
 
-## Research Interests
+**Operation Zero**<br>
+A web vulnerability learning platform built around progressive labs, containerized challenge environments, and security training flows. The work combines web engineering with hands-on security education.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>AI Agent Memory & Feedback</h3>
-      <p>Exploring state representation, feedback design, memory visualization, and decision quality in multi-tool agent workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Human-Centered AI Systems</h3>
-      <p>Building toward AI tools that are understandable, inspectable, and useful in real learning, work, and interaction contexts.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>CS x Neuroscience</h3>
-      <p>Interested in the intersection of computing, cognition, adaptive systems, and future neuroscience-informed AI research.</p>
-    </td>
-  </tr>
-</table>
+**EchoScribe** `private project`<br>
+A speech transcription and summarization system using ASR, speaker diarization, and LLM-based text processing. Publicly, I describe this at the system level only because the repository and context are private.
 
-## Selected Work
+**Automation workflows** `internal work`<br>
+Automation experience around learning-support and multi-step interaction scenarios. The public version of this work is about workflow design, API orchestration, and agent-style task routing without exposing internal process details.
 
-| Area | Scope | Stack / Topics |
-| --- | --- | --- |
-| Operation Zero | Web vulnerability learning platform with progressive labs, Docker-isolated environments, and security training flows. | Flask, React, MySQL, Docker |
-| EchoScribe | Private project for speech transcription and summarization using WhisperX-style ASR, diarization, and LLM-based text processing. | WhisperX, Pyannote, LLM APIs, FastAPI |
-| Automation Workflows | Internal automation workflow experience for learning-support and multi-step user interaction scenarios. | n8n, API workflows, tool orchestration |
-| LLM Experiments | Learning-focused experiments around local LLMs, fine-tuning concepts, retrieval, and dialogue data preparation. | LLaMA, LoRA, PEFT, RAG, Embeddings |
+**LLM and agent experiments**<br>
+Learning-focused experiments around local LLMs, LoRA / PEFT concepts, retrieval workflows, dialogue data preparation, and multi-tool agent behavior.
 
-## Tech Stack
+## Research Direction
 
-<table>
-  <tr>
-    <td valign="top"><strong>Languages</strong></td>
-    <td>Python, C/C++, JavaScript</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Frontend</strong></td>
-    <td>React, Vue, HTML, CSS, Vite, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Backend</strong></td>
-    <td>Flask, FastAPI, REST APIs</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Data & Infra</strong></td>
-    <td>MySQL, PostgreSQL, Docker, Docker Compose, Linux</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>AI / LLM</strong></td>
-    <td>WhisperX, Pyannote, LLaMA, LoRA, PEFT, RAG, Embeddings</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Automation</strong></td>
-    <td>n8n, API workflows, tool orchestration</td>
-  </tr>
-</table>
+I am currently thinking about three questions:
 
-<div align="center">
+- How does memory representation affect an agent's behavior across a long task?
+- What kind of feedback helps an agent recover from mistakes instead of repeating them?
+- How can software interfaces make context, attention, and adaptation easier to observe?
 
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,vue,vite,tailwind,html,css,flask,mysql,postgres,docker,git,github,vscode&perline=8" alt="Tech stack icons" />
+These questions connect my practical full-stack work with a longer-term interest in AI systems, human-computer interaction, and CS x neuroscience research.
 
-</div>
+## Tools I Use
 
-## GitHub Snapshot
+| Area | Tools |
+| --- | --- |
+| Daily development | Python, JavaScript, Flask, FastAPI, React, Vue |
+| Web and UI | HTML, CSS, Vite, Tailwind CSS, CSS Modules |
+| Systems and data | MySQL, PostgreSQL, Docker, Docker Compose, Linux |
+| AI / ML | WhisperX, Pyannote, LLaMA, LoRA, PEFT, RAG, embeddings |
+| Workflow automation | n8n, REST APIs, Postman, curl, tool orchestration |
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,react,vue,vite,tailwind,html,css,flask,mysql,postgres,docker,git,github,vscode&perline=8" alt="Tech stack icons" />
+</p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Silver369dragon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver369dragon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+## GitHub
 
-</div>
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Silver369dragon&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver369dragon&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
 
-## Working Principles
+## Notes
 
 ```text
 Read the real system before describing it.
 Keep implementation simple and inspectable.
-Make AI behavior easier to understand, not harder.
 Build tools that connect research ideas with usable interfaces.
 ```
-
-## Contact
-
-<div align="center">
-
-  <a href="mailto:yf100031@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
-  </a>
-
-</div>

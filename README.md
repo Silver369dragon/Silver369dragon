@@ -1,3 +1,5 @@
+![Akira connection graph banner](assets/profile-banner-named.png)
+
 # Akira / Silver369dragon
 
 Full-stack developer interested in AI agents, memory systems, and human-centered computing.

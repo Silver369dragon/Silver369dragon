@@ -1,21 +1,26 @@
-![Akira connection graph banner](assets/profile-banner-named.png)
+<p align="center">
+  <img src="assets/profile-banner-named.png" alt="Akira connection graph banner" />
+</p>
 
-# Akira / Silver369dragon
-
-Full-stack developer interested in AI agents, memory systems, and human-centered computing.
-
-<p>
+<p align="center">
   <a href="mailto:yf100031@gmail.com">
     <img src="https://img.shields.io/badge/email-yf100031%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Silver369dragon&style=flat-square&color=555555" alt="Profile views" />
 </p>
 
 ## Now
 
-I build full-stack systems and tools, mostly around web platforms, backend services, automation workflows, and applied AI experiments.
+I build full-stack tools around web platforms, backend services, automation workflows, and applied AI experiments.
 
-My current direction is shifting toward agent memory, environment feedback, and systems that make AI behavior easier to inspect and understand. Long term, I am interested in the overlap between computer science, cognition, adaptive systems, and neuroscience-informed AI.
+My current direction is shifting toward agent memory, environment feedback, and interfaces that make AI behavior easier to inspect. Long term, I am interested in the overlap between computer science, cognition, adaptive systems, and neuroscience-informed AI.
+
+## Research Direction
+
+I am currently thinking about three questions:
+
+- How does memory representation affect an agent's behavior across a long task?
+- What kind of feedback helps an agent recover from mistakes instead of repeating them?
+- How can software interfaces make context, attention, and adaptation easier to observe?
 
 ## Work
 
@@ -30,16 +35,6 @@ Automation experience around learning-support and multi-step interaction scenari
 
 **LLM and agent experiments**<br>
 Learning-focused experiments around local LLMs, LoRA / PEFT concepts, retrieval workflows, dialogue data preparation, and multi-tool agent behavior.
-
-## Research Direction
-
-I am currently thinking about three questions:
-
-- How does memory representation affect an agent's behavior across a long task?
-- What kind of feedback helps an agent recover from mistakes instead of repeating them?
-- How can software interfaces make context, attention, and adaptation easier to observe?
-
-These questions connect my practical full-stack work with a longer-term interest in AI systems, human-computer interaction, and CS x neuroscience research.
 
 ## Tools I Use
 

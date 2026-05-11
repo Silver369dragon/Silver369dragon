@@ -53,17 +53,3 @@ These questions connect my practical full-stack work with a longer-term interest
   <img src="https://skillicons.dev/icons?i=python,js,react,vue,vite,tailwind,html,css,flask,mysql,postgres,docker,git,github,vscode&perline=8" alt="Tech stack icons" />
 </p>
 
-## GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Silver369dragon&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver369dragon&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
-## Notes
-
-```text
-Read the real system before describing it.
-Keep implementation simple and inspectable.
-Build tools that connect research ideas with usable interfaces.
-```
